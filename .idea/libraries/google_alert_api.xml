@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="google-alert-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/google-alert-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
